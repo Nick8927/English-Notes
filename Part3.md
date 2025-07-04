@@ -4,7 +4,7 @@
 | 2️⃣ **call off**    | Отменять          | *They called off the wedding*<br>(Они отменили свадьбу) | *Will they call off the strike?*<br>(Они отменят забастовку?) |
 | 3️⃣ **drop by**     | Зайти ненадолго   | *I'll drop by around 5 PM*<br>(Я зайду около 17:00) | *Can you drop by the post office?*<br>(Можешь заглянуть на почту?) |
 | 4️⃣ **solve**       | Решать            | *She solved the math problem*<br>(Она решила задачу) | *How did you solve this?*<br>(Как ты это решил?) |
-| 5️⃣  **get rid of**  | Избавляться       | *We got rid of old furniture*<br>(Мы избавились от старой мебели) | *When will you get rid of these boxes?*<br>(Когда ты избавишься от этих коробок?) |
+| 5️⃣ **get rid of**  | Избавляться       | *We got rid of old furniture*<br>(Мы избавились от старой мебели) | *When will you get rid of these boxes?*<br>(Когда ты избавишься от этих коробок?) |
 
 **Ключевые особенности:**
 1. `bring up` + тему/вопрос  
