@@ -29,4 +29,4 @@
 3️⃣ *"Our cloud-native stack:"* AWS + Docker + Lambda  
 4️⃣ *"DevOps tools we love:"* Terraform, Ansible, Jenkins  
 5️⃣ *"Microservices challenges:"* межсервисная коммуникация  
-6️⃣ *"Our CI/CD flow:"* GitLab → Test → Docker Hub → Prod  
+6️⃣ *"Our CI/CD flow:"* GitLab → Test → Docker Hub → Prod   
