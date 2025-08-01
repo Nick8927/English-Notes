@@ -7,3 +7,10 @@
 | 5️⃣  | **Long story short**     | Короче говоря              | `Long story short, we got lost`        | Резюмирование                |
 
 
+| №   | Фраза                     | Перевод                     | Пример использования                  | Эмоциональный оттенок         |
+|-----|--------------------------|----------------------------|----------------------------------------|-------------------------------|
+| 1️⃣  | **That's a relief**      | Какое облегчение           | `The test is canceled? That's a relief!` | Положительный, расслабление   |
+| 2️⃣  | **What a bummer**        | Какая досада               | `It's raining? What a bummer!`         | Разочарование                |
+| 3️⃣  | **I'm stoked**          | Я в восторге               | `I'm stoked about the trip!`           | Сильный позитив              |
+| 4️⃣  | **That's overwhelming**  | Это подавляет              | `So much work - it's overwhelming`     | Стресс                       |
+| 5️⃣  | **I'm touched**         | Я тронут                   | `You remembered? I'm touched!`         | Трогательный момент          |
